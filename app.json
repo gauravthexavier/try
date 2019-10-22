@@ -1,3 +1,4 @@
+,
 {
     "name": "expressCart",
     "description": "A fully functioning Node.js shopping cart with Stripe, PayPal and Authorize.net payments.",
@@ -14,6 +15,7 @@
         "valve"
         "lunr",
         "cart",
-        "shopping"
+        "shopping",
+	"tracking"
     ]
 }
