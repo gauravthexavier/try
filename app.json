@@ -10,6 +10,7 @@
         "nodejs",
         "ecommerce",
         "paypal",
+        "cache"
         "lunr",
         "cart",
         "shopping"
