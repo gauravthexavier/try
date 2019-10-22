@@ -10,6 +10,8 @@
         "nodejs",
         "ecommerce",
         "paypal",
+        "cache"
+        "valve"
         "lunr",
         "cart",
         "shopping"
